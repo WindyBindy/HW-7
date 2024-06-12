@@ -1,12 +1,14 @@
-.p-lorem{
+ul + p {
     font-size: 24px;
 }
-.p-lorem2{
-    font-size: 24px;
-}
-.link4{
+
+
+
+
+
+[href="https://www.youtube.com/"]{
     color: red;
 }
-.link5{
+[href="https://validator.w3.org/"]{
     color: red;
 }
